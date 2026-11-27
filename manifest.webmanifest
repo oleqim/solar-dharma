@@ -1,0 +1,1 @@
+{"name": "Solar Dharma", "short_name": "Solar Dharma", "lang": "ru", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f4eddf", "theme_color": "#883e30", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]}
